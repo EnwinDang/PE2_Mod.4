@@ -7,5 +7,6 @@ public class Main {
         System.out.println();
         Hond Fifi = new Hond(20, 100, "Fifi", "10230");
         System.out.println(Fifi);
+        System.out.println();
     }
 }

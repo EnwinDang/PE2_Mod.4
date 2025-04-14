@@ -12,7 +12,7 @@ Binnen deze klasse schrijf je functies uit om het volgende te berekenen:
 
 De prijs van het pad
 De prijs van de omheining
-De totale prijs hiervoor*/
+De totale prijs hiervoor */
 
 public class Zwembad {
     private double straal;

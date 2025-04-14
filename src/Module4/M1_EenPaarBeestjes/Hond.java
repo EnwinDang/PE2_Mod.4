@@ -1,5 +1,5 @@
 package Module4.M1_EenPaarBeestjes;
-
+/*String voor stamboeknummer, potentieel letters*/
 public class Hond extends Huisdier {
     private String stamboeknummer;
 
