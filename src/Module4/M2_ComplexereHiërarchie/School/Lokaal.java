@@ -47,6 +47,6 @@ public class Lokaal{
 
     @Override
     public String toString() {
-        return "Lokaal -> " + adres + ", " + gebouw + ", " + verdieping + ", " + lokaalnummer;
+        return "Lokaal --> " + adres + ", " + gebouw + ", " + verdieping + ", " + lokaalnummer;
     }
 }

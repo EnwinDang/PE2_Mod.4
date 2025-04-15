@@ -21,7 +21,7 @@ public class Bedienden extends Personeelslid{
     @Override
     public String toString() {
         return "-Bediende- \n" +
-                "Naam: " + getVoornaam() + " " + getAchternaam() + "\n" +
+                "Naam:  " + getVoornaam() + " " + getAchternaam() + "\n" +
                 lokaal;
     }
 }

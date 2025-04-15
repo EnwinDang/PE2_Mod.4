@@ -29,7 +29,7 @@ public class Student extends Persoon{
     @Override
     public String toString() {
         return  "-Student-" +
-                "Studentennummer: " + studentennummer +
+                "Studentennuummer: " + studentennummer +
                 "\nRichting: " + richting;
     }
 }

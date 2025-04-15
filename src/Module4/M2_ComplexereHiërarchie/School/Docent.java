@@ -21,7 +21,7 @@ public class Docent extends Personeelslid{
             studenten[aantalStudenten] = student;
             aantalStudenten++;
         }else{
-            System.out.println("MAX limit");
+            System.out.println("MAX limit!");
         }
     }
 

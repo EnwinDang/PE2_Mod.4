@@ -18,7 +18,7 @@ public abstract class Personeelslid extends Persoon {
 
     @Override
     public String toString() {
-        return "=Personeelslid=\n" +
+        return "=Personeelslid= \n" +
                 getVoornaam()+ " " + getAchternaam() +
                 "\nLokaal: " + lokaal;
     }

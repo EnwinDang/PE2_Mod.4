@@ -44,7 +44,7 @@ public class Persoon {
     @Override
     public String toString() {
         return "-Persoonsgegevens- \n" +
-                "Voornaam: " + voornaam + "\n" +
+                "Voornam: " + voornaam + "\n" +
                 "Achternaam: " + achternaam;
     }
 }
